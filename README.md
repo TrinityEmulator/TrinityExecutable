@@ -1,4 +1,5 @@
 # Trinity Launch Executable
+![license](https://img.shields.io/badge/Licence-GPLv2-blue.svg "Apache") ![status](https://github.com/TrinityEmulator/TrinityExecutable/actions/workflows/main.yml/badge.svg)
 
 This is the code for our executable that launches Trinity without using commands and terminals. It allows simple clicks to launch our emulator, and is capable of detecting the available CPU acceleration methods, including HAXM and Hyper-V.
 
